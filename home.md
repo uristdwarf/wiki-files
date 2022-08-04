@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-08-04T16:52:16.214Z
+date: 2022-08-04T23:02:56.484Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:25:51.127Z
@@ -23,7 +23,7 @@ It can also be used by Kood/Jõhvi staff for general information and events.
 
 Welcome to the new wiki!
 All pages (except special pages, like Help:Editing) have been brought over from the old one.
-Feel free to look around, you don't to login to do that.
+Feel free to look around, you don't need to login to do that.
 
 ### Editing
 
