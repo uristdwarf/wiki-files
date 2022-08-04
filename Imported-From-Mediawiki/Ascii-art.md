@@ -2,7 +2,7 @@
 title: ascii-art
 description: 
 published: true
-date: 2022-08-04T21:10:04.788Z
+date: 2022-08-04T21:10:12.804Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:20:23.888Z
