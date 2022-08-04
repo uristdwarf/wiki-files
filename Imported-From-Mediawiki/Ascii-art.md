@@ -1,3 +1,13 @@
+---
+title: Ascii art
+description: 
+published: true
+date: 2022-08-04T21:09:34.479Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-04T16:20:23.888Z
+---
+
 ```{=mediawiki}
 {{Infobox Project
 |name = ascii-art
