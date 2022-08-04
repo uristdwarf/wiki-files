@@ -1,8 +1,8 @@
 ---
-title: Ascii art
+title: ascii-art
 description: 
 published: true
-date: 2022-08-04T21:09:34.479Z
+date: 2022-08-04T21:10:04.788Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:20:23.888Z
