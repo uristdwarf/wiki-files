@@ -2,14 +2,14 @@
 title: Main Page
 description: 
 published: true
-date: 2022-08-05T09:37:41.255Z
+date: 2022-08-05T09:38:12.439Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:25:51.127Z
 ---
 
 
-# **Kood Jõhvi Wiki**
+# **kood/Jõhvi Wiki**
 
 This wiki purpose is to help kood/Jõhvi students in their studies by
 writing about Software Development/School projects.
