@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-08-05T09:45:05.364Z
+date: 2022-08-05T09:46:24.243Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:25:51.127Z
@@ -41,7 +41,7 @@ To get everyone familiar with the new wiki, you can write about anything, but pl
 You can even edit this page and add some more info, just don't remove info which might be helpful for others (and instead add helpful things like screenshots)
 
 ## Beyond the first steps
-If your looking for something to do, there's a lot of MediaWiki articles that were imported and are somewhat messy. Help edit them and organise them to files, and I can then put the best of them on the sidebar.
+If your looking for something to do, there's a lot of [MediaWiki articles](Imported-From-Mediawiki/home) that were imported and are somewhat messy. Help edit them and organise them to files, and I can then put the best of them on the sidebar.
 
 Otherwise, you can try writing articles about something recent you learned. Too little to write about? Try [Tips and tricks](/tips-and-tricks).
 ## Note for kood/Jõhvi staff
