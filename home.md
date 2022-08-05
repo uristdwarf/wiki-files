@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-08-04T23:02:56.484Z
+date: 2022-08-05T09:37:41.255Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:25:51.127Z
@@ -11,10 +11,10 @@ dateCreated: 2022-08-03T13:25:51.127Z
 
 # **Kood Jõhvi Wiki**
 
-This wiki purpose is to help Kood/Jõhvi students in their studies by
+This wiki purpose is to help kood/Jõhvi students in their studies by
 writing about Software Development/School projects.
 
-It can also be used by Kood/Jõhvi staff for general information and events.
+It can also be used by kood/Jõhvi staff for general information and events.
 
 -   [Projects](Projects "wikilink") - Current 01 curriculum tasks
 
@@ -40,7 +40,7 @@ To get everyone familiar with the new wiki, you can write about anything, but pl
 
 You can even edit this page and add some more info, just don't remove info which might be helpful for others (and instead add helpful things like screenshots)
 
-## Note for Kood/Jõhvi staff
+## Note for kood/Jõhvi staff
 There's a special role which gives some administrative powers, please contact me on Discord (Urmas Rist) if you wish to have this role.
 
 ## Help
