@@ -2,7 +2,7 @@
 title: Go
 description: 
 published: true
-date: 2022-08-07T13:46:52.002Z
+date: 2022-08-07T14:37:34.706Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:21:17.702Z
@@ -69,4 +69,4 @@ func main() {
 
 ## Go standard library {#go_standard_library}
 
-*Main article: [Go standard library](Go_standard_library "wikilink")*
+*Main article: [Go standard library](go/library)*
