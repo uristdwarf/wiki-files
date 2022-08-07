@@ -2,17 +2,14 @@
 title: Ascii-art-web
 description: 
 published: true
-date: 2022-08-04T21:10:54.660Z
+date: 2022-08-07T12:58:51.903Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:20:16.038Z
 ---
 
-```{=mediawiki}
-{{Infobox Project|xp=9.20 kB|language=Go|members=2-3|type=basic|require=ascii-art}}
-```
 Ascii-art-web consists in creating and running a server, in which it
-will be possible to use a web GUI (graphical user interface) version of
+will be possible to use a web GUI (graphical user interface) version of the
 previously created ascii-art project.
 
 ## Advanced tasks {#advanced_tasks}
