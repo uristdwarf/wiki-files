@@ -1,8 +1,8 @@
 ---
-title: Imported-From-Mediawiki/Groupie-tracker-search-bar
+title: groupie-tracker-search-bar
 description: 
 published: true
-date: 2022-08-07T13:10:42.321Z
+date: 2022-08-07T13:11:24.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:21:24.586Z
