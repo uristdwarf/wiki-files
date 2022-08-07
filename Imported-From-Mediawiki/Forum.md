@@ -1,14 +1,13 @@
-```{=mediawiki}
-{{Infobox Project
-|name = forum
-|image = [[File:Forum.png|250px]]
-|require = [[lem-in]]
-|xp = 76.3 kB
-|language = Go
-|members = 2 -> 5
-|type = Basic
-}}
-```
+---
+title: Forum
+description: 
+published: true
+date: 2022-08-07T13:05:10.428Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-04T16:20:54.704Z
+---
+
 Forum is the first large scale project of the program. You will need to
 implement a database, sessions, users, registering/login, a post/comment
 structure, being able to posts/comments and liking/disliking those same
