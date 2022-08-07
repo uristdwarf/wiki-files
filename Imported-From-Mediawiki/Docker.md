@@ -1,3 +1,13 @@
+---
+title: Docker
+description: 
+published: true
+date: 2022-08-07T13:26:23.446Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-04T16:20:45.976Z
+---
+
 **Docker** is a software suite that uses [OS-level
 virtualization](wikipedia:OS-level_virtualization "wikilink") to deliver
 software in packages called containers. Containers are isolated from one
