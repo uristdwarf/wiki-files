@@ -2,7 +2,7 @@
 title: groupie-tracker
 description: 
 published: true
-date: 2022-08-07T13:01:18.352Z
+date: 2022-08-07T13:02:45.512Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:21:31.309Z
@@ -15,6 +15,6 @@ information.
 ## Advanced tasks {#advanced_tasks}
 
 -   [groupie-tracker-search-bar](/projects/go/groupie-tracker-search-bar)
--   groupie-tracker-filters
--   groupie-tracker-geolocalization
--   groupie-tracker-visualizations
+-   [groupie-tracker-filters](/projects/go/groupie-tracker-filters)
+-   [groupie-tracker-geolocalization](/projects/go/groupie-tracker-geolocalization)
+-   [groupie-tracker-visualizations](/projects/go/groupie-tracker-visualizations)
