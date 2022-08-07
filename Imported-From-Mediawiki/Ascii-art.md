@@ -2,15 +2,15 @@
 title: ascii-art
 description: 
 published: true
-date: 2022-08-07T12:50:46.373Z
-tags: 
+date: 2022-08-07T12:52:05.150Z
+tags: projects
 editor: markdown
 dateCreated: 2022-08-04T16:20:23.888Z
 ---
 
-## ascii-art
+# ascii-art
 
-### Objectives
+## Objectives
 
 Ascii-art is a program which consists in receiving a `string` as an argument and outputting the `string` in a graphic representation using ASCII. Time to write big.
 
@@ -39,7 +39,7 @@ $$@@$$$$$$$$``````````@@$$@@$$$$$$
 - This project should handle an input with numbers, letters, spaces, special characters and `\n`.
 - Take a look at the ASCII manual.
 
-### Instructions
+## Instructions
 
 - Your project must be written in **Go**.
 - The code must respect the [**good practices**](../good-practices/README.md).
@@ -51,7 +51,7 @@ $$@@$$$$$$$$``````````@@$$@@$$$$$$
   - [standard](standard.txt)
   - [thinkertoy](thinkertoy.txt)
 
-### Banner Format
+## Banner Format
 
 - Each character has a height of 8 lines.
 - Characters are separated by a new line `\n`.
@@ -88,7 +88,7 @@ $$@@$$$$$$$$``````````@@$$@@$$$$$$
 
 ```
 
-### Usage
+## Usage
 
 ```console
 student$ go run . "" | cat -e
@@ -187,7 +187,7 @@ $
 student$
 ```
 
-### Allowed packages
+## Allowed packages
 
 - Only the [standard Go](https://golang.org/pkg/) packages are allowed
 
