@@ -1,5 +1,13 @@
-```{=mediawiki}
-{{Infobox Project|name=groupie-tracker-search-bar|image=[[File:Groupie-tracker-filters.png|thumb|454x454px]]|require=groupie-tracker|xp=12.3 kB|members=2-3|type=advanced}}
-```
+---
+title: Imported-From-Mediawiki/Groupie-tracker-search-bar
+description: 
+published: true
+date: 2022-08-07T13:10:42.321Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-04T16:21:24.586Z
+---
+
+# groupie-tracker-search-bar
 Groupie tracker search bar consists of creating a functional program
 that searches, inside your website, for a specific text input.
