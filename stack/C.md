@@ -1,3 +1,13 @@
+---
+title: C
+description: 
+published: true
+date: 2022-08-07T13:25:47.058Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-04T16:20:38.607Z
+---
+
 This article will follow the style of the book \"The C Programming
 Language\" (a.k.a \"K&R\"), though a lot of projects use their own
 styles (for example, the Linux kernel style
