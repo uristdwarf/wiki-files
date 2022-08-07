@@ -2,12 +2,13 @@
 title: Git
 description: 
 published: true
-date: 2022-08-07T13:28:06.367Z
+date: 2022-08-07T13:28:22.561Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:21:02.529Z
 ---
 
+# Git
 Git is a version-control system (VCS).
 
 ## Quick guide to use {#quick_guide_to_use}
