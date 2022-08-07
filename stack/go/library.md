@@ -1,16 +1,26 @@
+---
+title: library
+description: 
+published: true
+date: 2022-08-07T14:32:07.818Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-07T14:20:20.535Z
+---
+
 The standard go library includes packages which are included as part of
 the Go language. These include[^1]:
 
--   [archive](Go_standard_library/archive "wikilink")
--   bufio
--   builtin
+-   [archive](library/archive)
+-   [bufio](library/bufio)
+-   [builtin](library/builtin)
 -   bytes
 -   compress
 -   container
 -   context
 -   crypto
--   [database](Go_standard_library/database "wikilink") - Provides
-    interfaces to [SQL](SQL "wikilink") databases
+-   [database](/stack/go/library/database) - Provides
+    interfaces to [SQL](/stack/sql) databases
 -   debug
 -   embed
 -   encoding
@@ -43,9 +53,4 @@ the Go language. These include[^1]:
 -   internal
 
 ## References
-
-```{=html}
-<references />
-```
-
 [^1]: <https://pkg.go.dev/std>
