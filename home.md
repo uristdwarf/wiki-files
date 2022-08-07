@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2022-08-05T09:57:02.412Z
+date: 2022-08-07T13:54:05.720Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:25:51.127Z
@@ -16,7 +16,7 @@ writing about Software Development/School projects.
 
 It can also be used by kood/Jõhvi staff for general information and events.
 
--   [Projects](Projects "wikilink") - Current 01 curriculum tasks
+-   [Projects](/projects/home)
 
 
 ## About the Main Page
@@ -27,7 +27,7 @@ Feel free to look around, you don't need to login to do that.
 
 ## Editing
 
-To edit/create, you will need to login with Discord and be in the Kood/Jõhvi Discord server.
+To edit/create, you will need to login with Discord and be in the kood/Jõhvi Discord server.
 Creating a page is very easy, you can use Markdown (which also provides a nice preview), a visual editor and plain HTML (note however you can't switch after choosing and saving without asking a Administrator).
 Click the new page button and enter a new name for the page.
 ![new-page.png](/new-page.png)
@@ -41,7 +41,11 @@ To get everyone familiar with the new wiki, you can write about anything, but pl
 You can even edit this page and add some more info, just don't remove info which might be helpful for others (and instead add helpful things like screenshots)
 
 ## Beyond the first steps
-If your looking for something to do, there's a lot of [MediaWiki articles](Imported-From-Mediawiki/home) that were imported and are somewhat messy. Help edit them and organise them to files, and I can then put the best of them on the sidebar.
+~~If your looking for something to do, there's a lot of MediaWiki articles that were imported and are somewhat messy. Help edit them and organize them to files, and I can then put the best of them on the sidebar.~~
+
+You can also write new articles, check the sideboard and its articles for inspiration.
+
+There are also incomplete articles, help expand them!
 
 Otherwise, you can try writing articles about something recent you learned. Too little to write about? Try [Tips and tricks](/tips-and-tricks).
 ## Note for kood/Jõhvi staff
