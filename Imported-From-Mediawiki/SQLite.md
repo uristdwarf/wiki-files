@@ -1,3 +1,14 @@
+---
+title: SQLite
+description: 
+published: true
+date: 2022-08-07T13:50:44.267Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-04T16:21:53.224Z
+---
+
+# SQLite
 SQLite is a embedded [SQL](SQL "wikilink") database management system.
 
 ## SQLite in Go {#sqlite_in_go}
@@ -17,5 +28,5 @@ import (
 )
 ```
 
-And that\'s it! To actually interact with the database, you need to use
+And that's it! To actually interact with the database, you need to use
 the [database/sql](Go_standard_library/database "wikilink") package.
