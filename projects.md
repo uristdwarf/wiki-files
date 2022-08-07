@@ -2,7 +2,7 @@
 title: Projects
 description: TODO: Organize the mediawiki imports and and link them here
 published: true
-date: 2022-08-07T13:12:54.355Z
+date: 2022-08-07T14:00:05.763Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-05T11:11:29.322Z
@@ -16,4 +16,8 @@ dateCreated: 2022-08-05T11:11:29.322Z
 - [groupie-tracker *Basic JSON parsing and serving*](/projects/go/groupie-tracker)
 - [lem-in *Traffic handling algorithm*](/projects/go/lem-in)
 - [forum *Basic social media*](/projects/go/forum)
+{.links-list}
+## Advanced
+- [atm-management-system *C programming*](/projects/challenging/atm-management-system)
+- [net-cat *Network programming*](/projects/challenging/net-cat)
 {.links-list}
