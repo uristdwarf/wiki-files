@@ -2,7 +2,7 @@
 title: Important contacts
 description: 
 published: true
-date: 2022-08-10T16:53:15.964Z
+date: 2022-08-10T20:19:25.683Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:53:15.964Z
@@ -18,4 +18,4 @@ To make your school life better then you have our kood/Jõhvi team that can help
 
 Keep in mind that weekends are for having a break from the casual work-week for the team! So if we don't answer you during the weekend then don't be affended, we'll get back to you ASAP.
    
-[Contacts](https://www.notion.so/c9e592f982cb45e5b638395418532c5b)
+[Contacts](https://koodjohvi.notion.site/c9e592f982cb45e5b638395418532c5b)
