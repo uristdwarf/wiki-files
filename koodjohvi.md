@@ -2,7 +2,7 @@
 title: kood/Jõhvi Info/News
 description: 
 published: true
-date: 2022-08-10T17:11:28.975Z
+date: 2022-08-10T17:20:24.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:12:38.440Z
@@ -24,8 +24,8 @@ You can find all the important information about kood/Jõhvi here:
 {.links-list}
 
 ## Keep in mind
-- [🏊 Piscine information *Info/dates on the JS/Rust piscines*](/koodjohvi/piscines)
-- [🎓 Code of Conduct *Rules during your studies*](/koodjohvi/piscines)
-- [🦠 COVID-19 *Info and guidelines*](/koodjohvi/covid)
+- [🏊 Piscine information *Info/dates on the JS/Rust piscines*](https://koodjohvi.notion.site/JavaScript-Piscine-information-037406ae2fbd440891f61f622daa6c8a)
+- [🎓 Code of Conduct *Rules during your studies*](https://koodjohvi.notion.site/Code-of-Conduct-a463957e858a49549b0614d581d1784e)
+- [🦠 COVID-19 *Info and guidelines*](https://koodjohvi.notion.site/COVID-19-info-and-guidelines-51ca54b3918b40d681e2429f9a59a820)
 {.links-list}
 
