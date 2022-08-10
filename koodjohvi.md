@@ -1,14 +1,14 @@
 ---
-title: kood/Jõhvi Info/News
+title: kood/Jõhvi info/News
 description: 
 published: true
-date: 2022-08-10T17:20:24.954Z
+date: 2022-08-10T19:29:29.890Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:12:38.440Z
 ---
 
-# kood/Jõhvi Info/News
+# kood/Jõhvi info/News
 You can find all the important information about kood/Jõhvi here:
 ## General info
 - [📚 Curriculm *All the tasks in 01*](/koodjohvi/curriculum)
