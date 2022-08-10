@@ -2,7 +2,7 @@
 title: kood/Jõhvi Info/News
 description: 
 published: true
-date: 2022-08-10T16:12:38.440Z
+date: 2022-08-10T16:13:18.713Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:12:38.440Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-10T16:12:38.440Z
 # kood/Jõhvi Info/News
 You can find all the important information about kood/Jõhvi here:
 ## General info
-- [📚 Curriculm *All the tasks in 01*](/projects/go/go-reloaded)
+- [📚 Curriculm *All the tasks in 01*](/koodjohvi/curriculum)
 {.links-list}
 ## Info for students
 - [📖 Helpful Materials *Tips for projects*](/helpful-materials)
