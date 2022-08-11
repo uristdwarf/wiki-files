@@ -2,14 +2,13 @@
 title: Important contacts
 description: 
 published: true
-date: 2022-08-11T13:52:19.408Z
+date: 2022-08-11T13:52:28.657Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:53:15.964Z
 ---
 
 # Important contacts + communication
-test
 To make your school life better then you have our kood/Jõhvi team that can help you every step of the way, you just need to ask! The main channel for you to get a fast response is **Discord.** The other way is also to e-mail us at **info@kood.tech**. 
 
 ❗If you have a question regarding **IT-problems** or any sort of other complications with audits, 01-platform and so on, then get in touch with **Gervin / kood** on Discord. He's mainly active in the morning from 10.00-12.00 and in the evening 16.00-18.00. Excluding weekends. But don't be afraid to write him anytime and he'll answer you **as soon as possible!**
