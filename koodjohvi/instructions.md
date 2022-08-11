@@ -2,7 +2,7 @@
 title: Instructions for students
 description: 
 published: true
-date: 2022-08-10T16:49:52.567Z
+date: 2022-08-11T13:51:55.603Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:49:52.567Z
