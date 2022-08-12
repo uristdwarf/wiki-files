@@ -2,7 +2,7 @@
 title: Curriculum
 description: 
 published: true
-date: 2022-08-12T10:06:13.542Z
+date: 2022-08-12T10:34:58.697Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:31:22.496Z
@@ -12,6 +12,7 @@ dateCreated: 2022-08-10T16:31:22.496Z
 ![01-curriculum.png](/01-curriculum.png)
 
 ## Tasks and time allocated
+<button type="button" id="button">Click to see table</button>
 <table>
   <tr>
     <th>Sequence</th>
@@ -877,6 +878,7 @@ dateCreated: 2022-08-10T16:31:22.496Z
     <td>-Implemention of scripting</td>
   </tr>
 </table>
+
 
 ## How do we see you moving along?
 This does not mean that you have to move at this pace. Also this only takes into account the mandatory assignments that you have to do. We do recommend doing as much as you can to develop even more.
