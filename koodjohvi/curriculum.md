@@ -2,7 +2,7 @@
 title: Curriculum
 description: 
 published: true
-date: 2022-08-12T10:36:23.220Z
+date: 2022-08-12T10:37:23.038Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:31:22.496Z
@@ -13,6 +13,19 @@ dateCreated: 2022-08-10T16:31:22.496Z
 
 ## Tasks and time allocated
 <button type="button" id="button">Click to see table</button>
+<script>
+let button = document.getElementById("button");
+console.log(button);
+
+button.addEventListener("click", _ => {
+    let content = table.nextElementSibling;
+    if (content.style.maxHeight) {
+        content.style.maxHeight = null;
+    } else {
+        content.style.maxHeight = content.scrollHeight.toString() + "px";
+    }
+});
+</script>
 <table>
   <tr>
     <th>Sequence</th>
