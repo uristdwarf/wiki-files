@@ -2,7 +2,7 @@
 title: Curriculum
 description: 
 published: true
-date: 2022-08-12T10:52:47.271Z
+date: 2022-08-12T10:54:01.013Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:31:22.496Z
