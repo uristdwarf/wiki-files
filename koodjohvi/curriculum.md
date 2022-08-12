@@ -2,7 +2,7 @@
 title: Curriculum
 description: 
 published: true
-date: 2022-08-12T10:40:24.532Z
+date: 2022-08-12T10:51:26.673Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T16:31:22.496Z
@@ -12,7 +12,6 @@ dateCreated: 2022-08-10T16:31:22.496Z
 ![01-curriculum.png](/01-curriculum.png)
 
 ## Tasks and time allocated
-<button type="button" id="table-button">Click to see table</button>
 <table>
   <tr>
     <th>Sequence</th>
