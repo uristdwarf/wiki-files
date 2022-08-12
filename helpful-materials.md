@@ -2,7 +2,7 @@
 title: Helpful Materials
 description: Lots of helpful materials
 published: true
-date: 2022-08-10T19:28:33.132Z
+date: 2022-08-12T11:03:00.539Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-05T10:51:53.661Z
