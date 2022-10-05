@@ -2,7 +2,7 @@
 title: Docker
 description: 
 published: true
-date: 2022-10-05T10:39:54.114Z
+date: 2022-10-05T10:42:13.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T16:20:45.976Z
@@ -49,7 +49,7 @@ Dockerfile and NOT the file itself.
 ### \--publish
 
 Commonly you need to access ports from container on your host machine,
-this [Command-Line flag](Command-Line_flag "wikilink") helps you change
+this command-line flag helps you change
 and access them.
 
 #### Example command that expose port 8080 to port 80 on the host. {#example_command_that_expose_port_8080_to_port_80_on_the_host.}
