@@ -2,7 +2,7 @@
 title: Setting up
 description: Laptop setup
 published: true
-date: 2022-12-02T09:35:39.620Z
+date: 2022-12-02T10:49:01.167Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-12T11:10:31.847Z
@@ -86,6 +86,9 @@ Here's the setup in a nutshell:
 2) [Download Go installer](https://go.dev/dl/)
 3) Run both installers, default settings should be fine
 4) You're done! You should be able to use Go commands in your console now. You can also use Git Bash if you like unix style commands.
+
+Difference between this and WSL
+![](https://cdn.discordapp.com/attachments/876735823322685480/1048187076765548554/image.png)
 
 # Linux
 
