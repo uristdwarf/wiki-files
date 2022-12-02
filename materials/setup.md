@@ -2,7 +2,7 @@
 title: Setting up
 description: Laptop setup
 published: true
-date: 2022-12-02T10:49:01.167Z
+date: 2022-12-02T10:49:39.912Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-12T11:10:31.847Z
@@ -89,6 +89,8 @@ Here's the setup in a nutshell:
 
 Difference between this and WSL
 ![](https://cdn.discordapp.com/attachments/876735823322685480/1048187076765548554/image.png)
+If you use WSL, you are running Linux in its own box, isolated from the windows system outside
+If you install Go and Git in your windows system, you can access them without ever going through WSL
 
 # Linux
 
