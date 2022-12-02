@@ -2,7 +2,7 @@
 title: Setting up
 description: Laptop setup
 published: true
-date: 2022-12-02T09:34:19.367Z
+date: 2022-12-02T09:35:39.620Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-12T11:10:31.847Z
@@ -41,7 +41,7 @@ brew install gofumpt
 Run the `brew list` command to be sure that you have all necessary packages 
 
 # Windows Subsystem for Linux (WSL)
-> A lot people have reported problems with WSL. While this remains the official way to do things on Windows as provided by the school/01, it has been recommended that if you encounter difficulties with WSL, that you try a [pure Windows setup](#Windows)
+> A lot people have reported problems with WSL. While this remains the official way to do things on Windows as provided by the school/01, it has been recommended that if you encounter difficulties with WSL, that you try a [pure Windows setup](#windows)
 {.is-warning}
 
 
